@@ -18,8 +18,6 @@ Launch a web server on Amazon EC2 and practice the full instance lifecycle: conf
 
 ## Architecture
 
-> Add your own simple diagram here (draw.io works well): Internet -> Security Group (port 80) -> EC2 instance (Apache) -> EBS volume, all inside a VPC.
-
 ![Architecture](screenshots/00-architecture.png)
 
 ## What I Did
